@@ -1,0 +1,80 @@
+body {
+    background-image: url('/images/backgroundImage.jpeg');
+    background-attachment: fixed;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.login {
+    text-align: center;
+    padding: 30px;
+    width: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    background-color: aliceblue;
+}
+
+a{
+    color:black;
+}
+
+.forgotPassword {
+    padding: 10px;
+    text-align: center;
+
+}
+
+.newUser {
+    padding: 10px;
+    text-align: center;
+}
+
+.resetPassword {
+    text-align: center;
+    padding: 30px;
+    width: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    background-color: aliceblue;
+}
+
+.passwordSent {
+    text-align: center;
+    padding: 30px;
+    width: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    background-color: aliceblue;
+}
+
+.createAccount {
+    text-align: center;
+    padding: 30px;
+    width: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    background-color: aliceblue;
+}
+
+.accountCreated {
+    text-align: center;
+    padding: 30px;
+    width: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    background-color: aliceblue;
+}
