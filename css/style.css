@@ -34,3 +34,6 @@ a{
 .page-footer{
     padding-bottom: 30px;
 }
+.text-muted{
+    text-align: center;
+}
